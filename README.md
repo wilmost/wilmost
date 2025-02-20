@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="hashicorp" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="42" height="42" /></a>
 <h2>✒️ Recent Posts</h2>
 
 <ul>
